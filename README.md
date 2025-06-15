@@ -1,4 +1,4 @@
-# Password Manager README
+# Password Strength Checker README
 
 ## Overview
 
